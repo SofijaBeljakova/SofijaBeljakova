@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Krita-%232EB67D.svg?style=for-the-badge&logo=krita&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Muddy_Path-3A2E1F?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-3A2E1F?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
