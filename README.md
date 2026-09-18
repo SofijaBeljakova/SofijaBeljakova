@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Krita-%232EB67D.svg?style=for-the-badge&logo=krita&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-Muddy_Path-3A2E1F?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Profile-333333?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -29,5 +28,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/225d5096-294a-452d-849e-78053485ee6b" width="100px" alt="nature vibe">
+  <img src="https://github.com/user-attachments/assets/225d5096-294a-452d-849e-78053485ee6b" alt="nature vibe">
 </p>
